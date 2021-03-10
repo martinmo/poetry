@@ -103,8 +103,6 @@ def test_remove_installed_package_dry_run(app, tester, env):
 Updating dependencies
 Resolving dependencies...
 
-Writing lock file
-
 Package operations: 0 installs, 0 updates, 1 removal
 
   • Removing poetry-plugin (1.2.3)
